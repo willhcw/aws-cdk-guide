@@ -69,8 +69,8 @@ This repository is organized to help you understand and practice different level
   - `hello_world/` contains a "Hello, World" project to demonstrate creating a simple S3 bucket using CDK.
 
 - **`projects/`**: Example projects organized by use case to demonstrate real-world applications.
-  - `project_one/` shows how to set up a web application infrastructure.
-  - `project_two/` focuses on a database setup with RDS and networking.
+  - `cdk-aspects-use-cases/` shows how to Aspects to enforce configurations on resources across your stack.
+  - `iam-role/` focuses on a iam setup with CDK tool.
 
 ## Basic Examples
 
